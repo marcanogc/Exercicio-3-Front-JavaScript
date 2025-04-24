@@ -11,7 +11,7 @@ Este programa permite cadastrar várias pessoas, informando nome, idade e cor fa
 5. Ao finalizar, o sistema mostra quem é a pessoa mais velha.
 
 ---
-``# Aula 3 - Exercício de Pessoas
+# Aula 3 - Exercício de Pessoas
 
 Este programa permite cadastrar várias pessoas, informando nome, idade e cor favorita. Para cada nova pessoa cadastrada, o sistema verifica se já existe alguém com a mesma cor favorita e exibe uma mensagem caso haja coincidência. Ao final, o programa informa quem é a pessoa mais velha cadastrada.
 
