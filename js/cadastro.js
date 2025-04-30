@@ -49,7 +49,7 @@ function comparaCores() {
             if (anterior.cor.toLowerCase() === cor.toLowerCase()) {
                 console.log(`Você tem o mesmo gosto de cor (${cor}) que ${anterior.name}!`);
                 /*
-                //resultado.innerHTML += `<p><strong>Você tem o mesmo gosto de cor (${cor}) que ${anterior.name}!</strong></p>`;
+                resultado.innerHTML += `<p><strong>Você tem o mesmo gosto de cor (${cor}) que ${anterior.name}!</strong></p>`;
                 */
             }
         }
